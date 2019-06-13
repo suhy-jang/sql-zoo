@@ -8,14 +8,6 @@ The project is part of a series of projects to be completed by students of [Micr
 
 - SQL
 
-## File dependencies
-
-> sql query written files location
-
-```sh
-sql
-```
-
 ## Relative link
 
 - https://sqlzoo.net/wiki/SQL_Tutorial
@@ -34,4 +26,4 @@ This is a solo project by me: [Suhyeon Jang](https://github.com/shjang7)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details
